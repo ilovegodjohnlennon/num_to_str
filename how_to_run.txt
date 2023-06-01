@@ -1,0 +1,8 @@
+compile:
+    gcc main.c numbers.c
+
+run:
+    ./a.out <number>
+
+for example:
+    ./a.out 123456
